@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<movies>
+    <movie>
+        <movieTitle>Interstellar</movieTitle>
+        <profit>675000000</profit>
+        <movieGenre>Science Fiction</movieGenre>
+        <releaseDate>2014-11-07</releaseDate>
+        <platform>Netflix</platform>
+    </movie>
+    <movie>
+        <movieTitle>The Godfather</movieTitle>
+        <profit>246120974</profit>
+        <movieGenre>Crime</movieGenre>
+        <releaseDate>1972-03-24</releaseDate>
+        <platform>HBO Max</platform>
+    </movie>
+    <movie>
+        <movieTitle>Parasite</movieTitle>
+        <profit>258800000</profit>
+        <movieGenre>Thriller</movieGenre>
+        <releaseDate>2019-05-30</releaseDate>
+        <platform>Amazon Prime</platform>
+    </movie>
+    <movie>
+        <movieTitle>Spirited Away</movieTitle>
+        <profit>305000000</profit>
+        <movieGenre>Animation</movieGenre>
+        <releaseDate>2001-07-20</releaseDate>
+        <platform>Disney+</platform>
+    </movie>
+</movies>
