@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<towns>
+    <town>
+        <townName>Bucuresti</townName>
+        <postalCode>100455</postalCode>
+        <noOfPeople>345999</noOfPeople>
+        <attestationDate>1865-11-07</attestationDate>
+    </town>
+    <town>
+        <townName>Cluj</townName>
+        <postalCode>199255</postalCode>
+        <noOfPeople>235099</noOfPeople>
+        <attestationDate>1905-12-07</attestationDate>
+    </town>
+     <town>
+        <townName>Timisoara</townName>
+        <postalCode>134125</postalCode>
+        <noOfPeople>67899</noOfPeople>
+        <attestationDate>1900-10-08</attestationDate>
+    </town>
+     <town>
+        <townName>Ploiesti</townName>
+        <postalCode>176455</postalCode>
+        <noOfPeople>25999</noOfPeople>
+        <attestationDate>1878-09-02</attestationDate>
+    </town>
+</towns>
